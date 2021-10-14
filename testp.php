@@ -5,11 +5,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Data Types Example</title>
+  <title>Data Types Testing</title>
 </head>
-
 <body>
-  <h1>PHP Data Types Exampl</h1>
+  <h1>PHP Data Types Testing</h1>
   <p>
     <b>Variables</b><br>
     <?php
